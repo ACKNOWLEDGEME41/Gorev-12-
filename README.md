@@ -36,7 +36,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 ```bash
 # 1️⃣ Depoyu klonlayın
-git clone https://github.com/ACKNOWLEDGEME41/healthy-recipes-app.git
+git clone [https://github.com/ACKNOWLEDGEME41/healthy-recipes-app.git](https://github.com/ACKNOWLEDGEME41/Gorev-12-.git)
 cd healthy-recipes-app
 
 # 2️⃣ Bağımlılıkları yükleyin
