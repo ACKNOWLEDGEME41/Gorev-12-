@@ -14,7 +14,7 @@ Bu proje, **React Native + Expo** kullanılarak geliştirilen modern bir mobil u
   - 🍽️ Besin değerleri (protein, yağ, karbonhidrat)
   - ⏱️ Süre etiketi (örneğin: `15dk` süren yeşil rozet)
 - ✅ Mobil ve web uyumlu tasarım
-- ❌ NativeWind/TailwindCSS **kullanılmadı** — tüm stiller `StyleSheet.create` ile verildi
+- ❌ NativeWind veya TailwindCSS **kullanılmadı** — tüm stiller `StyleSheet.create` ile verildi
 
 ---
 
@@ -32,14 +32,14 @@ Bu proje, **React Native + Expo** kullanılarak geliştirilen modern bir mobil u
 
 ## 🚀 Kurulum ve Çalıştırma
 
-Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin:
+Projeyi bilgisayarınıza indirip çalıştırmak için şu adımları izleyin:
 
 ```bash
 # 1️⃣ Depoyu klonlayın
-git clone [https://github.com/ACKNOWLEDGEME41/healthy-recipes-app.git](https://github.com/ACKNOWLEDGEME41/Gorev-12-.git)
-cd healthy-recipes-app
+git clone https://github.com/ACKNOWLEDGEME41/Gorev-12-.git
+cd expo-airfryer
 
-# 2️⃣ Bağımlılıkları yükleyin
+# 2️⃣ Gerekli bağımlılıkları yükleyin
 npm install
 
 # 3️⃣ Uygulamayı başlatın
